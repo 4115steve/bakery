@@ -14,44 +14,26 @@ Your website should reflect the specific needs of your selected client, not just
 
 Using the Provided Media ZIP File
 Each client includes a ZIP file with the media assets needed for this Touchstone Task. The ZIP file may include images, audio files, and video files.
-
-For this Touchstone Task, your media planning should include:
-
-At least two relevant images with meaningful alt text
-One figure element with a caption
-One responsive image using the <picture> element
-One audio or video element with fallback text
-You may use placeholder text for written content, but your media and form choices should still match your selected client.
-
-
+_________________________________________________________________________________
 Client A: North Star Bakery
 Client Type: Products focused business
 Purpose: Promote a neighborhood bakery and encourage pre orders and inquiries.
 Target Audience: Local customers, commuters, families, and event planners.
 Brand Tone: Warm, handmade, and community centered.
 
-Required Pages
+For this Touchstone Task, your media planning should include:
+1. At least two relevant images with meaningful alt text
+2. One figure element with a caption
+3. One responsive image using the <picture> element
+4. One audio or video element with fallback text
+5. You may use placeholder text for written content, but your media and form choices should still match your selected client.
 
--Home: index.html
-Welcome message
-“What we’re known for” summary
-Hours and location snippet
-Featured item of the week
-
--Products: products.html
-Product categories, such as breads, pastries, and cakes
-Brief product descriptions
-Pricing ranges, with no online checkout required
-
--About: about.html
-Story of the bakery
-Sourcing philosophy
-Staff highlights
-
--Contact: contact.html
-Inquiry and pre order request form
-Location information
-Hours of operation
+Your site should include:
+1. A logo or storefront image
+3. At least one product image
+4. One figure featuring a “Signature Loaf” with a caption
+6. One responsive featured image using the <picture> element
+7. One short behind the scenes video or audio welcome message with fallback text
 
 -Media Requirements
 Use the provided Bakery zip file. It includes:
@@ -64,13 +46,28 @@ bakery-feature-large.jpg
 bakery-welcome.mp3
 bakery-behind-scenes.mp4
 
-Your site should include:
-1. A logo or storefront image
-2. At least one product image
-3. One figure featuring a “Signature Loaf” with a caption
-6. One responsive featured image using the <picture> element
-7. One short behind the scenes video or audio welcome message with fallback text
+Required Pages
 
+-Home: index.html
+1. Welcome message
+2. “What we’re known for” summary
+3. Hours and location snippet
+4. Featured item of the week
+
+-Products: products.html
+1. Product categories, such as breads, pastries, and cakes
+2. Brief product descriptions
+3. Pricing ranges, with no online checkout required
+
+-About: about.html
+1. Story of the bakery
+2. Sourcing philosophy
+3. Staff highlights
+
+-Contact: contact.html
+1. Inquiry and pre order request form
+2. Location information
+3. Hours of operation
 
 Form Focus
 The form should collect:
@@ -80,7 +77,6 @@ The form should collect:
 4. Request type, such as pre order or general question
 5. Item details
 6. Allergy notes, if applicable
-
 ________________________________________________________________
 
 Instructions
